@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue.js and other js frameworks
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![joqwer's GitHub stats](https://github-readme-stats.vercel.app/api?username=joqwer&show_icons=true&theme=dracula)](https://github.com/joqwer)
 
-![streak badge](https://github-readme-streak-stats.herokuapp.com/?user=joqwer)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joqwer&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 joqwer/joqwer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
